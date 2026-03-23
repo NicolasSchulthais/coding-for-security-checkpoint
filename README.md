@@ -3,6 +3,7 @@
 Este repositório reúne os exercícios do checkpoint da disciplina Coding for Security da FIAP. Cada exercício foi desenvolvido para treinar lógica de programação, validação de dados e uso de funções.
 
 📚 Exercícios
+
 Exercício 1 — Verificador de Idade
 
 Classifica a idade em criança, adolescente, adulto ou idoso. Valida entradas inválidas.
