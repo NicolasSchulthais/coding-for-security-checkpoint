@@ -57,12 +57,17 @@ Calcula IR mensal com INSS progressivo, deduções por dependente, pensão e ida
 Python 3
 
 📌 Observações
+
 Todos os exercícios foram desenvolvidos pensando em:
 
 lógica de programação
+
 funções (def)
+
 validação de dados
+
 estruturas condicionais e loops
 
 👨‍💻 Autor
+
 Desenvolvido por mim como parte dos estudos na FIAP.
