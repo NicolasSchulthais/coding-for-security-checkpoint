@@ -13,16 +13,6 @@ Exercício 2 — Calculadora de IMC
 Calcula o IMC e indica a classificação: abaixo do peso, normal, sobrepeso ou obesidade.
 
 
-
-
-
-
-
-
-
-
-
-
 Exercício 3 — Conversor de Moedas
 
 Converte valores de Real para Dólar, Euro ou Libra. Valida opções e valores negativos.
